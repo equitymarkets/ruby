@@ -1,5 +1,4 @@
-irb
-require 'active_support'
+
 
 class Person
     def initialize name, location
